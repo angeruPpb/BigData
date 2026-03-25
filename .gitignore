@@ -1,0 +1,6 @@
+# ...existing code...
+wikipedia.txt
+*.exe
+
+# Ejecutables C/C++
+app
